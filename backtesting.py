@@ -6,7 +6,7 @@
 
     Instructions:
         Open your TradingView account:
-        Apply the strategy  to be tested to the active chart
+        Apply the strategy to be tested to the active chart
         If multiple charts are open, close all and leave the main chart open
         Open the watchlist to be tested
         Select the time interval
