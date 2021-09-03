@@ -11,7 +11,7 @@ Script to easily batch test a trading strategy written in pine language in Tradi
   * If multiple charts are open, close all and leave the main chart open
   * Open the watchlist to be tested
   * Select the time interval
-  + Save the session and close TradingView
+  * Save the session and close TradingView
   * Run backtesting.py
 
   
