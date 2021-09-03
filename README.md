@@ -1,10 +1,9 @@
 # Crypto-trading-bot
-
-### backtesting.py will:
-  *Open a selenium browser
-  *Test a Tradingview strategy for each stock or cryptocurrency in a predefined watchlist
-  *Generate extra metrics
-  *Save strategy metrics in a CSV file for further revision
+Script to easily batch test a trading strategy written in pine language in TradingView. It will:
+ *Open a selenium browser
+ *Test a Tradingview strategy for each stock or cryptocurrency in a predefined watchlist
+ *Generate extra metrics
+ *Save strategy metrics in a CSV file for further revision
   
 ### Instructions:
   *Open your TradingView account
