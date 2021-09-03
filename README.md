@@ -5,7 +5,7 @@
   *Test a Tradingview strategy for each stock or cryptocurrency in a predefined watchlist
   *Generate extra metrics
   *Save strategy metrics in a CSV file for further revision
-
+  
 ### Instructions:
   *Open your TradingView account
   *Apply the strategy to be tested to the active chart
@@ -14,3 +14,5 @@
   *Select the time interval
   +Save the session and close TradingView
   *Run backtesting.py
+  
+  
